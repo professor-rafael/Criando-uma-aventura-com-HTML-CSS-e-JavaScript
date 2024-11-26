@@ -15,6 +15,10 @@ button {
     color: white;
     font-family: "Impact;
     border-right-style: dashed;
+    animation-duration: 3s;
+    animation-name: slide-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
 .passo {
