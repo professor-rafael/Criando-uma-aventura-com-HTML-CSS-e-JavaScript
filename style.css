@@ -1,6 +1,6 @@
 body {
     background: url('bg-desktop.webp');
-    background-color: #1D4221;
+    background-color: black;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
@@ -13,7 +13,7 @@ body {
 button {
     background-color: green;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Impact;
 }
 
 .passo {
